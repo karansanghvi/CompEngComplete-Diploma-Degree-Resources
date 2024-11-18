@@ -1,6 +1,8 @@
 # CompEngComplete-Diploma-Degree-Resources
 A comprehensive collection of resources for Computer Engineering students, covering both diploma and degree-level topics. This repository is designed to support students as they progress through foundational and advanced subjects in Computer Engineering. 
 
+In this respository you will find all the notes, experiments, programs, textbooks, ppts, and other reference materials for each subject. Below is the detailed description of all the subjects semester wise. 
+
 ## Diploma In Computer Engineering
 | Semester 1           | Semester 2                    | Semester 3                         | Semester 4                        | Semester 5                        | Semester 6                           |
 |----------------------|--------------------------------|------------------------------------|-----------------------------------|-----------------------------------|--------------------------------------|
