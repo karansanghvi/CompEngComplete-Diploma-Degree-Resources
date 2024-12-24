@@ -3,6 +3,8 @@ A comprehensive collection of resources for Computer Engineering students, cover
 
 In this respository you will find all the notes, experiments, programs, textbooks, ppts, and other reference materials for each subject. Below is the detailed description of all the subjects semester wise. 
 
+https://mega.nz/folder/O4tzgIzR#mqD0LjivEMdrtKca5bWPQA
+
 ## Diploma In Computer Engineering
 | Semester 1           | Semester 2                    | Semester 3                         | Semester 4                        | Semester 5                        | Semester 6                           |
 |----------------------|--------------------------------|------------------------------------|-----------------------------------|-----------------------------------|--------------------------------------|
